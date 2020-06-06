@@ -901,13 +901,21 @@
         "version": "abec56db8d9e8c0be53354ab0f3e6bc5a888ea005f32e43f9893ae1e49360db7",
         "signature": "abec56db8d9e8c0be53354ab0f3e6bc5a888ea005f32e43f9893ae1e49360db7"
       },
-      "../src/app.service.ts": {
-        "version": "eaf8514ce110fa428a93a27408df4d06d133dbd9ed0a775c315ddfdd507853a9",
-        "signature": "653711fba8904aa27fd8911b63cf526e7b334e13a292da4cefdbbe179ac3f3f2"
+      "../node_modules/@nestjs/microservices/interfaces/client-grpc.interface.d.ts": {
+        "version": "192735b3685518f37991fd140b0f13f5f2e2d3ad1c0f618689f5437f8328ec1c",
+        "signature": "192735b3685518f37991fd140b0f13f5f2e2d3ad1c0f618689f5437f8328ec1c"
       },
-      "../src/app.controller.ts": {
-        "version": "260f889b9e2b69f77be1155348eb345166aec664b3efff6720053c6844a41f28",
-        "signature": "ef022c91ea9e75ab4082f2e881f9c4db7b346be2da706e876b253bebce5e6140"
+      "../node_modules/@nestjs/microservices/enums/transport.enum.d.ts": {
+        "version": "adc6974bb6588dfecba07e0384031c4b6569871db22597e3bd2e2caf8c0501db",
+        "signature": "adc6974bb6588dfecba07e0384031c4b6569871db22597e3bd2e2caf8c0501db"
+      },
+      "../node_modules/@nestjs/microservices/interfaces/packet.interface.d.ts": {
+        "version": "48ff71d446bf1dae7789ea12d54a6bdfc97d71174f63e3283f3ee7ebe4aa7027",
+        "signature": "48ff71d446bf1dae7789ea12d54a6bdfc97d71174f63e3283f3ee7ebe4aa7027"
+      },
+      "../node_modules/@nestjs/microservices/interfaces/deserializer.interface.d.ts": {
+        "version": "d3fa1e7726e01bb23c297d4ed21778f40fea1d53ffda75f735b2d5e4213cc280",
+        "signature": "d3fa1e7726e01bb23c297d4ed21778f40fea1d53ffda75f735b2d5e4213cc280"
       },
       "../node_modules/@types/node/globals.d.ts": {
         "version": "1236b98326630298e0b9cd30ccecd77560ac925140b753f1b1a0ffc6e7b51ad4",
@@ -1088,58 +1096,6 @@
       "../node_modules/@types/node/ts3.2/index.d.ts": {
         "version": "6e19418b881b57998d218487d41d85534c7fa5ab329bbc72afe571e7683d774a",
         "signature": "6e19418b881b57998d218487d41d85534c7fa5ab329bbc72afe571e7683d774a"
-      },
-      "../node_modules/@types/range-parser/index.d.ts": {
-        "version": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
-        "signature": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b"
-      },
-      "../node_modules/@types/express-serve-static-core/index.d.ts": {
-        "version": "f35ecc4d3a5fd9149f51819279641ecc77fd21d4603618df3b0fd591c83a73ea",
-        "signature": "f35ecc4d3a5fd9149f51819279641ecc77fd21d4603618df3b0fd591c83a73ea"
-      },
-      "../node_modules/@types/mime/index.d.ts": {
-        "version": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6",
-        "signature": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6"
-      },
-      "../node_modules/@types/serve-static/index.d.ts": {
-        "version": "cdbae5083ef8f786069519405ca1f1e2ce72b9efebdf5e1931584fba747f3bc0",
-        "signature": "cdbae5083ef8f786069519405ca1f1e2ce72b9efebdf5e1931584fba747f3bc0"
-      },
-      "../node_modules/@types/connect/index.d.ts": {
-        "version": "e6ffa74698f0a1d23e4223242ed7dcdb89d02bbbb063a1930e9f91d0385abe16",
-        "signature": "e6ffa74698f0a1d23e4223242ed7dcdb89d02bbbb063a1930e9f91d0385abe16"
-      },
-      "../node_modules/@types/body-parser/index.d.ts": {
-        "version": "ebddbd167c2fabd0151f50e5df94ca6d845149c47521280d8867afe3429dd078",
-        "signature": "ebddbd167c2fabd0151f50e5df94ca6d845149c47521280d8867afe3429dd078"
-      },
-      "../node_modules/@types/qs/index.d.ts": {
-        "version": "7bc3168fdda8512614c9b6627fbd356043e61070639879cf23d102265259730c",
-        "signature": "7bc3168fdda8512614c9b6627fbd356043e61070639879cf23d102265259730c"
-      },
-      "../node_modules/@types/express/index.d.ts": {
-        "version": "69a75b67f56862574404368dc3be451749291d6b6f6890409551fce81908beee",
-        "signature": "69a75b67f56862574404368dc3be451749291d6b6f6890409551fce81908beee"
-      },
-      "../src/customers/customers.controller.ts": {
-        "version": "38d5a0886f08a65932809b4fdbc4cf4d9c25378545bcf906eeca03c595cc4cf1",
-        "signature": "ca52a611190bc208799c9bbad6264c73a2e98723ab7d43877532f26f58d49126"
-      },
-      "../node_modules/@nestjs/microservices/interfaces/client-grpc.interface.d.ts": {
-        "version": "192735b3685518f37991fd140b0f13f5f2e2d3ad1c0f618689f5437f8328ec1c",
-        "signature": "192735b3685518f37991fd140b0f13f5f2e2d3ad1c0f618689f5437f8328ec1c"
-      },
-      "../node_modules/@nestjs/microservices/enums/transport.enum.d.ts": {
-        "version": "adc6974bb6588dfecba07e0384031c4b6569871db22597e3bd2e2caf8c0501db",
-        "signature": "adc6974bb6588dfecba07e0384031c4b6569871db22597e3bd2e2caf8c0501db"
-      },
-      "../node_modules/@nestjs/microservices/interfaces/packet.interface.d.ts": {
-        "version": "48ff71d446bf1dae7789ea12d54a6bdfc97d71174f63e3283f3ee7ebe4aa7027",
-        "signature": "48ff71d446bf1dae7789ea12d54a6bdfc97d71174f63e3283f3ee7ebe4aa7027"
-      },
-      "../node_modules/@nestjs/microservices/interfaces/deserializer.interface.d.ts": {
-        "version": "d3fa1e7726e01bb23c297d4ed21778f40fea1d53ffda75f735b2d5e4213cc280",
-        "signature": "d3fa1e7726e01bb23c297d4ed21778f40fea1d53ffda75f735b2d5e4213cc280"
       },
       "../node_modules/@nestjs/microservices/external/kafka-options.interface.d.ts": {
         "version": "5a080d2463f22e718b800cf3ab89bec9d3dd9ae98b8caf7a133586bed506c4b6",
@@ -1548,6 +1504,50 @@
       "../node_modules/@nestjs/microservices/index.d.ts": {
         "version": "ff3a45e62d966d8cd7735588a451801ff62aa34060e5124457c99e2220f9d1d3",
         "signature": "ff3a45e62d966d8cd7735588a451801ff62aa34060e5124457c99e2220f9d1d3"
+      },
+      "../src/app.controller.ts": {
+        "version": "b3d7a1d7dca60d50e8e8bfda27704ce589c552c6d9ca694bf523150cd78fdd8f",
+        "signature": "913deb3f6028f46ad6172436f538c8cfdabb3a76f773a66abfda2dfcb5c70b87"
+      },
+      "../src/app.service.ts": {
+        "version": "eaf8514ce110fa428a93a27408df4d06d133dbd9ed0a775c315ddfdd507853a9",
+        "signature": "653711fba8904aa27fd8911b63cf526e7b334e13a292da4cefdbbe179ac3f3f2"
+      },
+      "../node_modules/@types/range-parser/index.d.ts": {
+        "version": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
+        "signature": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b"
+      },
+      "../node_modules/@types/express-serve-static-core/index.d.ts": {
+        "version": "f35ecc4d3a5fd9149f51819279641ecc77fd21d4603618df3b0fd591c83a73ea",
+        "signature": "f35ecc4d3a5fd9149f51819279641ecc77fd21d4603618df3b0fd591c83a73ea"
+      },
+      "../node_modules/@types/mime/index.d.ts": {
+        "version": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6",
+        "signature": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6"
+      },
+      "../node_modules/@types/serve-static/index.d.ts": {
+        "version": "cdbae5083ef8f786069519405ca1f1e2ce72b9efebdf5e1931584fba747f3bc0",
+        "signature": "cdbae5083ef8f786069519405ca1f1e2ce72b9efebdf5e1931584fba747f3bc0"
+      },
+      "../node_modules/@types/connect/index.d.ts": {
+        "version": "e6ffa74698f0a1d23e4223242ed7dcdb89d02bbbb063a1930e9f91d0385abe16",
+        "signature": "e6ffa74698f0a1d23e4223242ed7dcdb89d02bbbb063a1930e9f91d0385abe16"
+      },
+      "../node_modules/@types/body-parser/index.d.ts": {
+        "version": "ebddbd167c2fabd0151f50e5df94ca6d845149c47521280d8867afe3429dd078",
+        "signature": "ebddbd167c2fabd0151f50e5df94ca6d845149c47521280d8867afe3429dd078"
+      },
+      "../node_modules/@types/qs/index.d.ts": {
+        "version": "7bc3168fdda8512614c9b6627fbd356043e61070639879cf23d102265259730c",
+        "signature": "7bc3168fdda8512614c9b6627fbd356043e61070639879cf23d102265259730c"
+      },
+      "../node_modules/@types/express/index.d.ts": {
+        "version": "69a75b67f56862574404368dc3be451749291d6b6f6890409551fce81908beee",
+        "signature": "69a75b67f56862574404368dc3be451749291d6b6f6890409551fce81908beee"
+      },
+      "../src/customers/customers.controller.ts": {
+        "version": "38d5a0886f08a65932809b4fdbc4cf4d9c25378545bcf906eeca03c595cc4cf1",
+        "signature": "ca52a611190bc208799c9bbad6264c73a2e98723ab7d43877532f26f58d49126"
       },
       "../src/math/math.controller.ts": {
         "version": "afe863aefe57e856fbaf9af967458fe7f8de587653845a33c75a56b269684a53",
@@ -3516,16 +3516,26 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../src/app.service.ts": [
-        "../node_modules/@nestjs/common/index.d.ts",
+      "../node_modules/@nestjs/microservices/interfaces/client-grpc.interface.d.ts": [
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../src/app.controller.ts": [
-        "../node_modules/@nestjs/common/index.d.ts",
-        "../src/app.service.ts",
+      "../node_modules/@nestjs/microservices/enums/transport.enum.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@nestjs/microservices/interfaces/packet.interface.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@nestjs/microservices/interfaces/deserializer.interface.d.ts": [
+        "../node_modules/@nestjs/microservices/interfaces/packet.interface.d.ts",
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
@@ -3890,102 +3900,6 @@
         "../node_modules/@types/node/ts3.2/globals.d.ts",
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/util.d.ts"
-      ],
-      "../node_modules/@types/range-parser/index.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/express-serve-static-core/index.d.ts": [
-        "../node_modules/@types/node/http.d.ts",
-        "../node_modules/@types/node/events.d.ts",
-        "../node_modules/@types/range-parser/index.d.ts",
-        "../node_modules/@types/node/ts3.2/index.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/mime/index.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/serve-static/index.d.ts": [
-        "../node_modules/@types/express-serve-static-core/index.d.ts",
-        "../node_modules/@types/mime/index.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/connect/index.d.ts": [
-        "../node_modules/@types/node/http.d.ts",
-        "../node_modules/@types/node/ts3.2/index.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/body-parser/index.d.ts": [
-        "../node_modules/@types/connect/index.d.ts",
-        "../node_modules/@types/node/http.d.ts",
-        "../node_modules/@types/node/ts3.2/index.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/qs/index.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/express/index.d.ts": [
-        "../node_modules/@types/body-parser/index.d.ts",
-        "../node_modules/@types/serve-static/index.d.ts",
-        "../node_modules/@types/express-serve-static-core/index.d.ts",
-        "../node_modules/@types/qs/index.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../src/customers/customers.controller.ts": [
-        "../node_modules/@nestjs/common/index.d.ts",
-        "../node_modules/@types/express/index.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@nestjs/microservices/interfaces/client-grpc.interface.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@nestjs/microservices/enums/transport.enum.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@nestjs/microservices/interfaces/packet.interface.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@nestjs/microservices/interfaces/deserializer.interface.d.ts": [
-        "../node_modules/@nestjs/microservices/interfaces/packet.interface.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "../node_modules/@nestjs/microservices/external/kafka-options.interface.d.ts": [
         "../node_modules/@types/node/tls.d.ts",
@@ -4885,6 +4799,92 @@
         "../node_modules/@nestjs/microservices/nest-microservice.d.ts",
         "../node_modules/@nestjs/microservices/server/index.d.ts",
         "../node_modules/@nestjs/microservices/tokens.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../src/app.controller.ts": [
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../node_modules/@nestjs/microservices/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../src/app.service.ts": [
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/range-parser/index.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/express-serve-static-core/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/range-parser/index.d.ts",
+        "../node_modules/@types/node/ts3.2/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/mime/index.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/serve-static/index.d.ts": [
+        "../node_modules/@types/express-serve-static-core/index.d.ts",
+        "../node_modules/@types/mime/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/connect/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/ts3.2/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/body-parser/index.d.ts": [
+        "../node_modules/@types/connect/index.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/ts3.2/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/qs/index.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/express/index.d.ts": [
+        "../node_modules/@types/body-parser/index.d.ts",
+        "../node_modules/@types/serve-static/index.d.ts",
+        "../node_modules/@types/express-serve-static-core/index.d.ts",
+        "../node_modules/@types/qs/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../src/customers/customers.controller.ts": [
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../node_modules/@types/express/index.d.ts",
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
@@ -6977,8 +6977,30 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../src/app.controller.ts": [
-        "../src/app.service.ts"
+      "../node_modules/@nestjs/microservices/interfaces/client-grpc.interface.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@nestjs/microservices/enums/transport.enum.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@nestjs/microservices/interfaces/packet.interface.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@nestjs/microservices/interfaces/deserializer.interface.d.ts": [
+        "../node_modules/@nestjs/microservices/interfaces/packet.interface.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "../node_modules/@types/node/globals.d.ts": [
         "../node_modules/@types/node/fs.d.ts",
@@ -7339,94 +7361,6 @@
         "../node_modules/@types/node/ts3.2/globals.d.ts",
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/util.d.ts"
-      ],
-      "../node_modules/@types/range-parser/index.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/express-serve-static-core/index.d.ts": [
-        "../node_modules/@types/node/http.d.ts",
-        "../node_modules/@types/node/events.d.ts",
-        "../node_modules/@types/range-parser/index.d.ts",
-        "../node_modules/@types/node/ts3.2/index.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/mime/index.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/serve-static/index.d.ts": [
-        "../node_modules/@types/express-serve-static-core/index.d.ts",
-        "../node_modules/@types/mime/index.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/connect/index.d.ts": [
-        "../node_modules/@types/node/http.d.ts",
-        "../node_modules/@types/node/ts3.2/index.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/body-parser/index.d.ts": [
-        "../node_modules/@types/connect/index.d.ts",
-        "../node_modules/@types/node/http.d.ts",
-        "../node_modules/@types/node/ts3.2/index.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/qs/index.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/express/index.d.ts": [
-        "../node_modules/@types/body-parser/index.d.ts",
-        "../node_modules/@types/serve-static/index.d.ts",
-        "../node_modules/@types/express-serve-static-core/index.d.ts",
-        "../node_modules/@types/qs/index.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@nestjs/microservices/interfaces/client-grpc.interface.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@nestjs/microservices/enums/transport.enum.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@nestjs/microservices/interfaces/packet.interface.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@nestjs/microservices/interfaces/deserializer.interface.d.ts": [
-        "../node_modules/@nestjs/microservices/interfaces/packet.interface.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "../node_modules/@nestjs/microservices/external/kafka-options.interface.d.ts": [
         "../node_modules/@types/node/tls.d.ts",
@@ -8331,6 +8265,69 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "../node_modules/@types/range-parser/index.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/express-serve-static-core/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/range-parser/index.d.ts",
+        "../node_modules/@types/node/ts3.2/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/mime/index.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/serve-static/index.d.ts": [
+        "../node_modules/@types/express-serve-static-core/index.d.ts",
+        "../node_modules/@types/mime/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/connect/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/ts3.2/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/body-parser/index.d.ts": [
+        "../node_modules/@types/connect/index.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/ts3.2/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/qs/index.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/express/index.d.ts": [
+        "../node_modules/@types/body-parser/index.d.ts",
+        "../node_modules/@types/serve-static/index.d.ts",
+        "../node_modules/@types/express-serve-static-core/index.d.ts",
+        "../node_modules/@types/qs/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "../node_modules/@types/anymatch/index.d.ts": [
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
@@ -8827,8 +8824,10 @@
       "../node_modules/@nestjs/common/utils/forward-ref.util.d.ts",
       "../node_modules/@nestjs/common/utils/index.d.ts",
       "../node_modules/@nestjs/common/index.d.ts",
-      "../src/app.service.ts",
-      "../src/app.controller.ts",
+      "../node_modules/@nestjs/microservices/interfaces/client-grpc.interface.d.ts",
+      "../node_modules/@nestjs/microservices/enums/transport.enum.d.ts",
+      "../node_modules/@nestjs/microservices/interfaces/packet.interface.d.ts",
+      "../node_modules/@nestjs/microservices/interfaces/deserializer.interface.d.ts",
       "../node_modules/@types/node/globals.d.ts",
       "../node_modules/@types/node/assert.d.ts",
       "../node_modules/@types/node/async_hooks.d.ts",
@@ -8874,19 +8873,6 @@
       "../node_modules/@types/node/ts3.2/util.d.ts",
       "../node_modules/@types/node/ts3.2/globals.d.ts",
       "../node_modules/@types/node/ts3.2/index.d.ts",
-      "../node_modules/@types/range-parser/index.d.ts",
-      "../node_modules/@types/express-serve-static-core/index.d.ts",
-      "../node_modules/@types/mime/index.d.ts",
-      "../node_modules/@types/serve-static/index.d.ts",
-      "../node_modules/@types/connect/index.d.ts",
-      "../node_modules/@types/body-parser/index.d.ts",
-      "../node_modules/@types/qs/index.d.ts",
-      "../node_modules/@types/express/index.d.ts",
-      "../src/customers/customers.controller.ts",
-      "../node_modules/@nestjs/microservices/interfaces/client-grpc.interface.d.ts",
-      "../node_modules/@nestjs/microservices/enums/transport.enum.d.ts",
-      "../node_modules/@nestjs/microservices/interfaces/packet.interface.d.ts",
-      "../node_modules/@nestjs/microservices/interfaces/deserializer.interface.d.ts",
       "../node_modules/@nestjs/microservices/external/kafka-options.interface.d.ts",
       "../node_modules/@nestjs/microservices/external/mqtt-options.interface.d.ts",
       "../node_modules/@nestjs/microservices/ctx-host/base-rpc.context.d.ts",
@@ -8989,8 +8975,18 @@
       "../node_modules/@nestjs/microservices/server/index.d.ts",
       "../node_modules/@nestjs/microservices/tokens.d.ts",
       "../node_modules/@nestjs/microservices/index.d.ts",
+      "../src/app.service.ts",
+      "../node_modules/@types/range-parser/index.d.ts",
+      "../node_modules/@types/express-serve-static-core/index.d.ts",
+      "../node_modules/@types/mime/index.d.ts",
+      "../node_modules/@types/serve-static/index.d.ts",
+      "../node_modules/@types/connect/index.d.ts",
+      "../node_modules/@types/body-parser/index.d.ts",
+      "../node_modules/@types/qs/index.d.ts",
+      "../node_modules/@types/express/index.d.ts",
+      "../src/customers/customers.controller.ts",
       "../src/math/math.controller.ts",
-      "../src/app.module.ts",
+      "../src/main.ts",
       "../node_modules/@types/anymatch/index.d.ts",
       "../node_modules/@babel/types/lib/index.d.ts",
       "../node_modules/@types/babel__generator/index.d.ts",
@@ -9029,7 +9025,8 @@
       "../node_modules/@types/webpack/index.d.ts",
       "../node_modules/@types/yargs-parser/index.d.ts",
       "../node_modules/@types/yargs/index.d.ts",
-      "../src/main.ts"
+      "../src/app.controller.ts",
+      "../src/app.module.ts"
     ]
   },
   "version": "3.8.3"
